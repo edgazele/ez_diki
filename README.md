@@ -1,2 +1,2 @@
 # ez_diki
-my own dictionary
+my own Russian - English dictionary
